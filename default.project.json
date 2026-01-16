@@ -1,0 +1,21 @@
+{
+  "name": "fragment-legend",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$path": "src/replicated-storage"
+    },
+    "ServerScriptService": {
+      "$path": "src/server-script-service"
+    },
+    "StarterPlayer": {
+      "StarterCharacterScripts": {
+        "$path": "src/starter-player/character-script"
+      },
+      "StarterPlayerScripts": {
+        "$path": "src/starter-player/player-script"
+      }
+    }
+  }
+}
