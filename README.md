@@ -1,4 +1,4 @@
-# Fragment Legend
+# Game Template
 
 ## Getting Started
 Install dependencies
@@ -13,10 +13,10 @@ rojo init
 To build the place from scratch, use:
 
 ```bash
-rojo build -o "fragment-legend.rbxlx"
+rojo build -o "main.rbxlx"
 ```
 
-Next, open `fragment-legend.rbxlx` in Roblox Studio and start the Rojo server:
+Next, open `main.rbxlx` in Roblox Studio and start the Rojo server:
 
 ```bash
 rojo serve

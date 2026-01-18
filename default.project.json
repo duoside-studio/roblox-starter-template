@@ -1,20 +1,20 @@
 {
-  "name": "fragment-legend",
+  "name": "game-template",
   "tree": {
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "$path": "src/replicated-storage"
+      "$path": "src/ReplicatedStorage"
     },
     "ServerScriptService": {
-      "$path": "src/server-script-service"
+      "$path": "src/ServerScriptService"
     },
     "StarterPlayer": {
       "StarterCharacterScripts": {
-        "$path": "src/starter-player/character-script"
+        "$path": "src/StarterPlayer/StarterCharacterScript"
       },
       "StarterPlayerScripts": {
-        "$path": "src/starter-player/player-script"
+        "$path": "src/StarterPlayer/StarterPlayerScript"
       }
     }
   }
